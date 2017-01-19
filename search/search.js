@@ -5,7 +5,7 @@
 	.directive('search',[function(){
 	return{
 		restrict:"EA",
-		template:'<form class="navbar-form navbar-right" ng-submit="search()"><input type="text" class="form-control" placeholder="Search..." ng-model="input"></form>',
+		template:'<form class="navbar-form navbar-right" ng-submit="search()"><input type="text" class="form-control" placeholder="搜索电影、明星" ng-model="input"></form>',
 		replace:'true',
 		controller:'searchController'
 	}
