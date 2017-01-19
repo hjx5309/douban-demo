@@ -1,0 +1,34 @@
+<h1 class="page-header">{{title}}</h1>
+<h2 ng-if="message">{{message}}</h2>
+<div class="list-group"  ng-repeat="item in subjects">
+	<a href="#/detail/{{item.id}}" class="list-group-item">
+		<span class="badge">{{item.rating.average}}</span>
+		<div class="media">
+			<div class="media-left">
+				<img ng-src="{{item.images.small}}" alt="https://movie.douban.com/subject/26325320/">
+			</div>
+				<div class="media-body">
+				<h2 class="media-heading">{{item.title}}</h2>
+				<p>导演：<strong ng-repeat="d in item.directors">{{d.name}}<span ng-hide="$last">、</span>	</strong></p>
+					<p>类型：{{item.genres.join('、')}}</p>
+			</div>
+		</div>
+	</a>
+</div>
+<div ng-show="!loading">
+	<nav>
+		<ul class="pagination">
+			<li><a ng-click="goPage(1)" ng-show="currentPage!=1"> 首页 </a></li>
+			<li><a ng-click="goPage(currentPage-1)" ng-show="currentPage!=1"> 《上一页 </a></li>
+			<li  ng-repeat="i in pagefengye " ng-class="{active:currentPage==i}"><span ng-click="goPage(i)">{{i}}</span></li>
+			<li><a ng-click="goPage(currentPage-0+1)" ng-show="currentPage!=pageCounts">下一页》</a></li>
+			<li><a ng-click="goPage(pageCounts)" ng-show="currentPage!=pageCounts">尾页</a></li>
+		</ul>
+	</nav>
+	总共：{{total}}条，{{currentPage}}/{{pageCounts}}页
+</div>
+<div class="mask" ng-show="loading">
+<div class="loading">
+	<span></span>
+</div>
+</div>

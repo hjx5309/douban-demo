@@ -1,0 +1,225 @@
+{
+  "count": 3,
+  "start": 3,
+  "total": 33,
+  "subjects": [
+	{
+	  "rating": {
+		"max": 10,
+		"average": 8.8,
+		"stars": "45",
+		"min": 0
+	  },
+	  "genres": [
+		"剧情",
+		"传记",
+		"动作"
+	  ],
+	  "title": "血战钢锯岭",
+	  "casts": [
+		{
+		  "alt": "https://movie.douban.com/celebrity/1022620/",
+		  "avatars": {
+			"small": "http://img7.doubanio.com/img/celebrity/small/13151.jpg",
+			"large": "http://img7.doubanio.com/img/celebrity/large/13151.jpg",
+			"medium": "http://img7.doubanio.com/img/celebrity/medium/13151.jpg"
+		  },
+		  "name": "安德鲁·加菲尔德",
+		  "id": "1022620"
+		},
+		{
+		  "alt": "https://movie.douban.com/celebrity/1000147/",
+		  "avatars": {
+			"small": "http://img7.doubanio.com/img/celebrity/small/35783.jpg",
+			"large": "http://img7.doubanio.com/img/celebrity/large/35783.jpg",
+			"medium": "http://img7.doubanio.com/img/celebrity/medium/35783.jpg"
+		  },
+		  "name": "萨姆·沃辛顿",
+		  "id": "1000147"
+		},
+		{
+		  "alt": "https://movie.douban.com/celebrity/1002673/",
+		  "avatars": {
+			"small": "http://img3.doubanio.com/img/celebrity/small/6056.jpg",
+			"large": "http://img3.doubanio.com/img/celebrity/large/6056.jpg",
+			"medium": "http://img3.doubanio.com/img/celebrity/medium/6056.jpg"
+		  },
+		  "name": "文斯·沃恩",
+		  "id": "1002673"
+		}
+	  ],
+	  "collect_count": 162909,
+	  "original_title": "Hacksaw Ridge",
+	  "subtype": "movie",
+	  "directors": [
+		{
+		  "alt": "https://movie.douban.com/celebrity/1054530/",
+		  "avatars": {
+			"small": "http://img7.doubanio.com/img/celebrity/small/680.jpg",
+			"large": "http://img7.doubanio.com/img/celebrity/large/680.jpg",
+			"medium": "http://img7.doubanio.com/img/celebrity/medium/680.jpg"
+		  },
+		  "name": "梅尔·吉布森",
+		  "id": "1054530"
+		}
+	  ],
+	  "year": "2016",
+	  "images": {
+		"small": "http://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2397337958.jpg",
+		"large": "http://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2397337958.jpg",
+		"medium": "http://img3.doubanio.com/view/movie_poster_cover/spst/public/p2397337958.jpg"
+	  },
+	  "alt": "https://movie.douban.com/subject/26325320/",
+	  "id": "26325320"
+	},
+	{
+	  "rating": {
+		"max": 10,
+		"average": 5,
+		"stars": "25",
+		"min": 0
+	  },
+	  "genres": [
+		"剧情",
+		"动作",
+		"奇幻"
+	  ],
+	  "title": "长城",
+	  "casts": [
+		{
+		  "alt": "https://movie.douban.com/celebrity/1054443/",
+		  "avatars": {
+			"small": "http://img7.doubanio.com/img/celebrity/small/620.jpg",
+			"large": "http://img7.doubanio.com/img/celebrity/large/620.jpg",
+			"medium": "http://img7.doubanio.com/img/celebrity/medium/620.jpg"
+		  },
+		  "name": "马特·达蒙",
+		  "id": "1054443"
+		},
+		{
+		  "alt": "https://movie.douban.com/celebrity/1275432/",
+		  "avatars": {
+			"small": "http://img7.doubanio.com/img/celebrity/small/1407683852.1.jpg",
+			"large": "http://img7.doubanio.com/img/celebrity/large/1407683852.1.jpg",
+			"medium": "http://img7.doubanio.com/img/celebrity/medium/1407683852.1.jpg"
+		  },
+		  "name": "景甜",
+		  "id": "1275432"
+		},
+		{
+		  "alt": "https://movie.douban.com/celebrity/1329628/",
+		  "avatars": {
+			"small": "http://img7.doubanio.com/img/celebrity/small/1397806328.94.jpg",
+			"large": "http://img7.doubanio.com/img/celebrity/large/1397806328.94.jpg",
+			"medium": "http://img7.doubanio.com/img/celebrity/medium/1397806328.94.jpg"
+		  },
+		  "name": "佩德罗·帕斯卡",
+		  "id": "1329628"
+		}
+	  ],
+	  "collect_count": 180981,
+	  "original_title": "The Great Wall",
+	  "subtype": "movie",
+	  "directors": [
+		{
+		  "alt": "https://movie.douban.com/celebrity/1054398/",
+		  "avatars": {
+			"small": "http://img3.doubanio.com/img/celebrity/small/568.jpg",
+			"large": "http://img3.doubanio.com/img/celebrity/large/568.jpg",
+			"medium": "http://img3.doubanio.com/img/celebrity/medium/568.jpg"
+		  },
+		  "name": "张艺谋",
+		  "id": "1054398"
+		}
+	  ],
+	  "year": "2016",
+	  "images": {
+		"small": "http://img7.doubanio.com/view/movie_poster_cover/ipst/public/p2394573821.jpg",
+		"large": "http://img7.doubanio.com/view/movie_poster_cover/lpst/public/p2394573821.jpg",
+		"medium": "http://img7.doubanio.com/view/movie_poster_cover/spst/public/p2394573821.jpg"
+	  },
+	  "alt": "https://movie.douban.com/subject/6982558/",
+	  "id": "6982558"
+	},
+	{
+	  "rating": {
+		"max": 10,
+		"average": 4.7,
+		"stars": "25",
+		"min": 0
+	  },
+	  "genres": [
+		"喜剧",
+		"动画",
+		"奇幻"
+	  ],
+	  "title": "猪猪侠之英雄猪少年",
+	  "casts": [
+		{
+		  "alt": "https://movie.douban.com/celebrity/1340022/",
+		  "avatars": {
+			"small": "http://img3.doubanio.com/img/celebrity/small/1415645996.57.jpg",
+			"large": "http://img3.doubanio.com/img/celebrity/large/1415645996.57.jpg",
+			"medium": "http://img3.doubanio.com/img/celebrity/medium/1415645996.57.jpg"
+		  },
+		  "name": "易烊千玺",
+		  "id": "1340022"
+		},
+		{
+		  "alt": "https://movie.douban.com/celebrity/1322063/",
+		  "avatars": {
+			"small": "http://img3.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png",
+			"large": "http://img7.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png",
+			"medium": "http://img3.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png"
+		  },
+		  "name": "陈轶",
+		  "id": "1322063"
+		},
+		{
+		  "alt": "https://movie.douban.com/celebrity/1366599/",
+		  "avatars": {
+			"small": "http://img3.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png",
+			"large": "http://img7.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png",
+			"medium": "http://img3.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png"
+		  },
+		  "name": "张子琨",
+		  "id": "1366599"
+		}
+	  ],
+	  "collect_count": 448,
+	  "original_title": "猪猪侠之英雄猪少年",
+	  "subtype": "movie",
+	  "directors": [
+		{
+		  "alt": "https://movie.douban.com/celebrity/1340248/",
+		  "avatars": {
+			"small": "http://img3.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png",
+			"large": "http://img7.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png",
+			"medium": "http://img3.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png"
+		  },
+		  "name": "陆锦明",
+		  "id": "1340248"
+		},
+		{
+		  "alt": "https://movie.douban.com/celebrity/1366597/",
+		  "avatars": {
+			"small": "http://img3.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png",
+			"large": "http://img7.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png",
+			"medium": "http://img3.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png"
+		  },
+		  "name": "钟裕",
+		  "id": "1366597"
+		}
+	  ],
+	  "year": "2017",
+	  "images": {
+		"small": "http://img7.doubanio.com/view/movie_poster_cover/ipst/public/p2410095594.jpg",
+		"large": "http://img7.doubanio.com/view/movie_poster_cover/lpst/public/p2410095594.jpg",
+		"medium": "http://img7.doubanio.com/view/movie_poster_cover/spst/public/p2410095594.jpg"
+	  },
+	  "alt": "https://movie.douban.com/subject/26912427/",
+	  "id": "26912427"
+	}
+  ],
+  "title": "正在上映的电影-北京"
+}

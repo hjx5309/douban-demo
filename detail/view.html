@@ -1,0 +1,28 @@
+<div ng-show="!loading">
+<h2 class="page-header">影片详情</h2>
+<div class="list-group">
+	<a class="list-group-item">
+		<span class="badge">{{movie.rating.average}}</span>
+		<div class="media">
+			<div class="media-left">
+				<img ng-src="{{movie.images.large}}">
+			</div>
+			<div class="media-body">
+				<h2 class="media-heading">{{movie.title}}</h2>
+				<p>导演：<strong ng-repeat="d in movie.directors">{{d.name}}<span ng-hide="$last">、</span>	</strong></p>
+				<p>类型：{{movie.genres.join('、')}}</p>
+                <p>演员：<strong ng-repeat="c in movie.casts">{{c.name}}<span ng-hide="$last">、</span></strong></p>
+				<div>
+					简介：{{movie.summary}}
+				</div>
+			</div>
+
+		</div>
+	</a>
+</div>
+</div>
+<div class="mask" ng-show="loading">
+	<div class="loading">
+		<span></span>
+	</div>
+</div>
